@@ -1,194 +1,541 @@
 [
-  {
-    "username": "1MarcosGon",
-    "wallet": "0x3d2687A2e1E2E4882A6703dfA27344c4cF06bBc8"
-  },
-  {
-    "username": "defi_degen24",
-    "wallet": "0x31E0ed4CD7c932C5ebC975CD1e366b88Bcc54ce1"
-  },
-  {
-    "username": "NCurtil99913",
-    "wallet": "0x10E28C3cB66F57eB7ac655BA2f10Fc9Cd6447fF3"
-  },
-  {
-    "username": "NCurtil99914",
-    "wallet": "0x10E28C3cB66F57eB7ac655BA2f10Fc9Cd6447fF2"
-  },
-  {
-    "username": "Chidiebere_BO",
-    "wallet": "0x4Eed4F00540d0464022aE9bA05f61eC307b1c784"
-  },
-  {
-    "username": "mrtn_schlgl",
-    "wallet": "0x701E8dEd7812204BeEEA0BB71eD50814337bE84d"
-  },
-  {
-    "username": "itmegaa95",
-    "wallet": "0x70A5dE82cBb9C5b2f65075D15cD5D56303E692cD"
-  },
-  {
-    "username": "tomaka_",
-    "wallet": "0x3494bf0E235Bf206b36233DED4956f9526Af6894"
-  },
-  {
-    "username": "Doginal_sol",
-    "wallet": "0xdc202B6b7c35C19c59cA75e60595fab420D381b7"
-  },
-  {
-    "username": "sapanpatel2030",
-    "wallet": "0xe8F13A5f100A11D256Fd20fc5bE8d4027FC107D2"
-  },
-  {
-    "username": "wealthFrom0",
-    "wallet": "0x209B92e15c93282edFEa1b02102d85782FCeB577"
-  },
-  {
-    "username": "doinyogamastery",
-    "wallet": "0x45D8e90deFB7a88C3e5584043205da5a90a43A34"
-  },
-  {
-    "username": "seradra69",
-    "wallet": "0x2e373c5cFb184121016b97d9B3bE3444484F763D"
-  },
-  {
-    "username": "perfectsoundsunleashed",
-    "wallet": "0x3754c4C86416a22abe0b694796E99ec174c90924"
-  },
-  {
-    "username": "MrBTChere",
-    "wallet": "0x7aDf9d75AAaf9e1Bbb537063FfE588e1a2f8C56F"
-  },
-  {
-    "username": "Muhd_anchauu",
-    "wallet": "0xe0af1a1f446faa2a1763b9e923597e819f1cec40"
-  },
-  {
-    "username": "diankingking",
-    "wallet": "0x5c7f3d414b4a48fcc371bc99578d7bfa75386458"
-  },
-  {
-    "username": "notpapi321",
-    "wallet": "0x6acc0272612c4c1f536040565ded648016c77d26"
-  },
-  {
-    "username": "TimileyinO19323",
-    "wallet": "0x4F858830f290985ef0B65F0d1330d5b50Bc885c3"
-  },
-  {
-    "username": "ZiaSaif",
-    "wallet": "0x3Ae862f192B81FB5159957E00E21B85F700384f2"
-  },
-  {
-    "username": "only1jekani",
-    "wallet": "0x779bbac623407fc6cd35e65b30dccd515a69bf5f"
-  },
-  {
-    "username": "lilweath01",
-    "wallet": "0xBD4e93B070e92005F5c20159F44096E0619660bd"
-  },
-  {
-    "username": "IchigoKage95",
-    "wallet": "0xe63E65c46D806CC181a84E2BA166faD3aCB44405"
-  },
-  {
-    "username": "kanayafa",
-    "wallet": "0x3d19288219bbb548ae5430cd7881249f1ce84070"
-  },
-  {
-    "username": "D99Id",
-    "wallet": "0xf3b4210b1c886c04FAdB41Fb4C25d8000E68ABf7"
-  },
-  {
-    "username": "iamulumun",
-    "wallet": "0x4E77767aEBfC9baf77E7383806d53D86371B99e7"
-  },
-  {
-    "username": "LekhtLob",
-    "wallet": "0x7478fDD5E4B8f382A58A6649B4f3e48bca48EA1B"
-  },
-  {
-    "username": "MitsuzakaAray",
-    "wallet": "0x2e1a2bF9700ff4c6560af61a8b526e746d7bB790"
-  },
-  {
-    "username": "alyxilussion",
-    "wallet": "0xc1100a8ba4C372dab63Dd1D1afBd5d081697dd83"
-  },
-  {
-    "username": "Mayaro99869334",
-    "wallet": "0x31b36D441A0459d4aACF30ca738a6b6827c83ec3"
-  },
-  {
-    "username": "rockydotfella",
-    "wallet": "0xaBc9Cb0A5231270351b3490208A8Ed2b9371Fdda"
-  },
-  {
-    "username": "Bobbyeth_",
-    "wallet": "0x580227001523551f045E07b28D33c2832dBf5DCe"
-  },
-  {
-    "username": "arfadly17",
-    "wallet": "0x703479f276A27262587539A1dDEB62665d9cbdbD"
-  },
-  {
-    "username": "BabyC68681",
-    "wallet": "0x4ef1a4dDA1141910F3b07dd1BE57777F2DE273a7"
-  },
-  {
-    "username": "arisemex_eth",
-    "wallet": "0xb01Ee2d3b97eBcedFA3c9A2605a7392e91CB3e8C"
-  },
-  {
-    "username": "KarterM_A",
-    "wallet": "0x5463cd934405e6ccf930f6720c24e77c7b51c3d2"
-  },
-  {
-    "username": "riyanspyg01",
-    "wallet": "0xb6D70F0c1E0ddB15cD1190BcbD6D5b742F1a6650"
-  },
-  {
-    "username": "PauloMartins911",
-    "wallet": "0x9C21141A2D50f5501EF0367B46169A1d910c54B7"
-  },
-  {
-    "username": "Eze_J_R",
-    "wallet": "0xc255C3698bBBD560CDbff2c02617e5aF1Cb3BeCb"
-  },
-  {
-    "username": "Johnlay26",
-    "wallet": "0x6495f4dC9d8022c163a370E228745bA4C37d2836"
-  },
-  {
-    "username": "Triplebanplus",
-    "wallet": "0x3FD87AB15b8D6d7A5D1E78FBe4f7B7a59319C7A9"
-  },
-  {
-    "username": "Jenlisa7162",
-    "wallet": "0x48EDF6f0AdbD4243F282c7154939f013e8aD821B"
-  },
-  {
-    "username": "Sandara5272",
-    "wallet": "0x44eD621c3d634149F32aF45898a1907340A50BDE"
-  },
-  {
-    "username": "MiraS2168",
-    "wallet": "0xb3b8a327b6754c28ff15e618a6b0de7bae458052"
-  },
-  {
-    "username": "LeikSei35107",
-    "wallet": "0xc0883224e95c7D55fbe96eB72E1f80FF6bF04683"
-  },
-  {
-    "username": "Hudaexuy",
-    "wallet": "0xD38D6B77Df1120eAB27257acbE68e291Ae6B39Fc"
-  },
-  {
-    "username": "Boom3199",
-    "wallet": "0xBfa6150db0e32B156c285b54584F76bb52EACDae"
-  },
-  {
-    "username": "N9335100",
-    "wallet": "0x50CFBE19ec744B65Bd340Faf4441931D2e1dF701"
-  }
+{
+  "username": "@1MarcosGon",
+  "wallet": "0x3d2687A2e1E2E4882A6703dfA27344c4cF06bBc8"
+}
+,
+{
+  "username": "@defi_degen24",
+  "wallet": "0x31E0ed4CD7c932C5ebC975CD1e366b88Bcc54ce1"
+}
+,
+{
+  "username": "@NCurtil99913",
+  "wallet": "0x10E28C3cB66F57eB7ac655BA2f10Fc9Cd6447fF3"
+}
+,
+{
+  "username": "@NCurtil99914",
+  "wallet": "0x10E28C3cB66F57eB7ac655BA2f10Fc9Cd6447fF2"
+}
+,
+{
+  "username": "@Chidiebere_BO",
+  "wallet": "0x4Eed4F00540d0464022aE9bA05f61eC307b1c784"
+}
+,
+{
+  "username": "@mrtn_schlgl",
+  "wallet": "0x701E8dEd7812204BeEEA0BB71eD50814337bE84d"
+}
+,
+{
+  "username": "@itmegaa95",
+  "wallet": "0x70A5dE82cBb9C5b2f65075D15cD5D56303E692cD"
+}
+,
+{
+  "username": "@tomaka_",
+  "wallet": "0x3494bf0E235Bf206b36233DED4956f9526Af6894"
+}
+,
+{
+  "username": "@Doginal_sol",
+  "wallet": "0xdc202B6b7c35C19c59cA75e60595fab420D381b7"
+}
+,
+{
+  "username": "@sapanpatel2030",
+  "wallet": "0xe8F13A5f100A11D256Fd20fc5bE8d4027FC107D2"
+}
+,
+{
+  "username": "@wealthFrom0",
+  "wallet": "0x209B92e15c93282edFEa1b02102d85782FCeB577"
+}
+,
+{
+  "username": "@doinyogamastery",
+  "wallet": "0x45D8e90deFB7a88C3e5584043205da5a90a43A34"
+}
+,
+{
+  "username": "@seradra69",
+  "wallet": "0x2e373c5cFb184121016b97d9B3bE3444484F763D"
+}
+,
+{
+  "username": "@perfectsoundsunleashed",
+  "wallet": "0x3754c4C86416a22abe0b694796E99ec174c90924"
+}
+,
+{
+  "username": "@MrBTChere",
+  "wallet": "0x7aDf9d75AAaf9e1Bbb537063FfE588e1a2f8C56F"
+}
+,
+{
+  "username": "@Muhd_anchauu",
+  "wallet": "0xe0af1a1f446faa2a1763b9e923597e819f1cec40"
+}
+,
+{
+  "username": "@diankingking",
+  "wallet": "0x5c7f3d414b4a48fcc371bc99578d7bfa75386458"
+}
+,
+{
+  "username": "@notpapi321",
+  "wallet": "0x6acc0272612c4c1f536040565ded648016c77d26"
+}
+,
+{
+  "username": "@TimileyinO19323",
+  "wallet": "0x4F858830f290985ef0B65F0d1330d5b50Bc885c3"
+}
+,
+{
+  "username": "@ZiaSaif",
+  "wallet": "0x3Ae862f192B81FB5159957E00E21B85F700384f2"
+}
+,
+{
+  "username": "@only1jekani",
+  "wallet": "0x779bbac623407fc6cd35e65b30dccd515a69bf5f"
+}
+,
+{
+  "username": "@lilweath01",
+  "wallet": "0xBD4e93B070e92005F5c20159F44096E0619660bd"
+}
+,
+{
+  "username": "@IchigoKage95",
+  "wallet": "0xe63E65c46D806CC181a84E2BA166faD3aCB44405"
+}
+,
+{
+  "username": "@kanayafa",
+  "wallet": "0x3d19288219bbb548ae5430cd7881249f1ce84070"
+}
+,
+{
+  "username": "@D99Id",
+  "wallet": "0xf3b4210b1c886c04FAdB41Fb4C25d8000E68ABf7"
+}
+,
+{
+  "username": "@iamulumun",
+  "wallet": "0x4E77767aEBfC9baf77E7383806d53D86371B99e7"
+}
+,
+{
+  "username": "@LekhtLob",
+  "wallet": "0x7478fDD5E4B8f382A58A6649B4f3e48bca48EA1B"
+}
+,
+{
+  "username": "@MitsuzakaAray",
+  "wallet": "0x2e1a2bF9700ff4c6560af61a8b526e746d7bB790"
+}
+,
+{
+  "username": "@alyxilussion",
+  "wallet": "0xc1100a8ba4C372dab63Dd1D1afBd5d081697dd83"
+}
+,
+{
+  "username": "@Mayaro99869334",
+  "wallet": "0x31b36D441A0459d4aACF30ca738a6b6827c83ec3"
+}
+,
+{
+  "username": "@rockydotfella",
+  "wallet": "0xaBc9Cb0A5231270351b3490208A8Ed2b9371Fdda"
+}
+,
+{
+  "username": "@Bobbyeth_",
+  "wallet": "0x580227001523551f045E07b28D33c2832dBf5DCe"
+}
+,
+{
+  "username": "@arfadly17",
+  "wallet": "0x703479f276A27262587539A1dDEB62665d9cbdbD"
+}
+,
+{
+  "username": "@BabyC68681",
+  "wallet": "0x4ef1a4dDA1141910F3b07dd1BE57777F2DE273a7"
+}
+,
+{
+  "username": "@arisemex_eth",
+  "wallet": "0xb01Ee2d3b97eBcedFA3c9A2605a7392e91CB3e8C"
+}
+,
+{
+  "username": "@KarterM_A",
+  "wallet": "0x5463cd934405e6ccf930f6720c24e77c7b51c3d2"
+}
+,
+{
+  "username": "@riyanspyg01",
+  "wallet": "0xb6D70F0c1E0ddB15cD1190BcbD6D5b742F1a6650"
+}
+,
+{
+  "username": "@PauloMartins911",
+  "wallet": "0x9C21141A2D50f5501EF0367B46169A1d910c54B7"
+}
+,
+{
+  "username": "@Eze_J_R",
+  "wallet": "0xc255C3698bBBD560CDbff2c02617e5aF1Cb3BeCb"
+}
+,
+{
+  "username": "@Johnlay26",
+  "wallet": "0x6495f4dC9d8022c163a370E228745bA4C37d2836"
+}
+,
+{
+  "username": "@Triplebanplus",
+  "wallet": "0x3FD87AB15b8D6d7A5D1E78FBe4f7B7a59319C7A9"
+}
+,
+{
+  "username": "@Jenlisa7162",
+  "wallet": "0x48EDF6f0AdbD4243F282c7154939f013e8aD821B"
+}
+,
+{
+  "username": "@Sandara5272",
+  "wallet": "0x44eD621c3d634149F32aF45898a1907340A50BDE"
+}
+,
+{
+  "username": "@MiraS2168",
+  "wallet": "0xb3b8a327b6754c28ff15e618a6b0de7bae458052"
+}
+,
+{
+  "username": "@LeikSei35107",
+  "wallet": "0xc0883224e95c7D55fbe96eB72E1f80FF6bF04683"
+}
+,
+{
+  "username": "@Hudaexuy",
+  "wallet": "0xD38D6B77Df1120eAB27257acbE68e291Ae6B39Fc"
+}
+,
+{
+  "username": "@Boom3199",
+  "wallet": "0xBfa6150db0e32B156c285b54584F76bb52EACDae"
+}
+,
+{
+  "username": "@N9335100",
+  "wallet": "0x50CFBE19ec744B65Bd340Faf4441931D2e1dF701"
+}
+,
+{
+  "username": "@nahidkamalnowab",
+  "wallet": "0xB2b62Fdc39E7efd825068A5952a448d74D014ac0"
+}
+,
+{
+  "username": "@delejoe9",
+  "wallet": "0x435FBc7E212319F569185C132420536d789E2043"
+}
+,
+{
+  "username": "@Thecryptoent",
+  "wallet": "0x41de5d7541f87084726f8332f88cfc01e19b9926"
+}
+,
+{
+  "username": "@nfany660",
+  "wallet": "0x97F4261eB10fb752767a7fC7f20879e313E36341"
+}
+,
+{
+  "username": "@NurAsyifah0099",
+  "wallet": "0x35c0CA49B97Bf7DecD85bf62c58f0039c41136B9"
+}
+,
+{
+  "username": "@Anabelleofweb3",
+  "wallet": "0x3Ef87Ed4F53E614200B1D39b224Cc19Fa9709c32"
+}
+,
+{
+  "username": "@memeriksai11",
+  "wallet": "0x4895f8025553a9eb856293eda7ad57a3cd19c896"
+}
+,
+{
+  "username": "@ma_laika_b",
+  "wallet": "0xfac7c9eb8d4bbb2db9badc312fba2eb01574dd91"
+}
+,
+{
+  "username": "@Byumeyu",
+  "wallet": "0x72327b7B80eF5bc824dBD9CF01a69138486b8DFd"
+}
+,
+{
+  "username": "@iamsunny412",
+  "wallet": "0x7f5947068E940e98ba76E3C1D2a9f4353707f1a2"
+}
+,
+{
+  "username": "@reravasira",
+  "wallet": "0x9F8AaBDfC6D1F61E84c4306B80e8E6BC0C8aC199"
+}
+,
+{
+  "username": "@lilwealth01",
+  "wallet": "0xbd4e93b070e92005f5c20159f44096e0619660bd"
+}
+,
+{
+  "username": "@tahirmuh0099",
+  "wallet": "0x9084871B29B5a7D21bDE67Db63d1a140a7848B0B"
+}
+,
+{
+  "username": "@byumeeee",
+  "wallet": "0x47E439De701FC5aA35691dac69609f72C59E3D29"
+}
+,
+{
+  "username": "@amjadali_2145",
+  "wallet": "0xEf8384Fb4ba5b6281fe88B150583c40871503Bc2"
+}
+,
+{
+  "username": "@dndsage999",
+  "wallet": "0xAd90dCD3999c53c6F2712172625124f46D730553"
+}
+,
+{
+  "username": "@God_Grace_amb",
+  "wallet": "0x47B8a4118DA5a78CCfd75985B3aE8886cf84E64A"
+}
+,
+{
+  "username": "@JibonMmj",
+  "wallet": "0x4Ffc6F9F5D877875815d2B44f5A0aab4a220D5fC"
+}
+,
+{
+  "username": "@DropHunter74",
+  "wallet": "0x1F1a22585eB5F028Dd347d848fE39952AbD04AC9"
+}
+,
+{
+  "username": "@silentshade0",
+  "wallet": "0xb6874a3cda550173e9d76829fc8ec2f1d93e2309"
+}
+,
+{
+  "username": "@watercherryy",
+  "wallet": "0xbb37aff4373f4b579491890ac53b7e10bde02bae"
+}
+,
+{
+  "username": "@frash441",
+  "wallet": "0x7a231Df32670715eC942048e101E281543BcDeb6"
+}
+,
+{
+  "username": "@AnisaSajha",
+  "wallet": "0x640768B4445a086ae705766b8c063C9A7C187eb9"
+}
+,
+{
+  "username": "@0xBangBills",
+  "wallet": "0x1D0dD23046629952191e21450383AF7a054B6149"
+}
+,
+{
+  "username": "@dewianasar203",
+  "wallet": "0xA3911789508f48FBd58C7dF6b88247833EaABAa7"
+}
+,
+{
+  "username": "@mexcutt",
+  "wallet": "0x984570ea0603D0Da4E2A4dcFe7150bD57Eb884e9"
+}
+,
+{
+  "username": "@winwin15194553",
+  "wallet": "0x1a7a303b02d2dcedca0dd1773377c6b5c920da17"
+}
+,
+{
+  "username": "@parida130202",
+  "wallet": "0xf6ED7fc20121BcFE437Bea6898f760eb0D16fE36"
+}
+,
+{
+  "username": "@cryptoxid_",
+  "wallet": "0x3c9280303D4a0c2201F41990eBbBD8776188093C"
+}
+,
+{
+  "username": "@Felixxiauw76",
+  "wallet": "0xCef3D38B8B7fE7437b71552af8707E8523C414ed"
+}
+,
+{
+  "username": "@rzkyunchhh",
+  "wallet": "0xD10a28040Fc0EfB61332964206ba0b9bC35Bb2d3"
+}
+,
+{
+  "username": "@ultra939",
+  "wallet": "0xB08E463A728ED03FA7ce93D43a99B8EFC1614294"
+}
+,
+{
+  "username": "@kinarxav",
+  "wallet": "0x80f8b2b79918ee1e70264619f7560f5ce3f92467"
+}
+,
+{
+  "username": "@Harlanfdlh27",
+  "wallet": "0xcc55238cf36d80ba5601bd948ff72cfef87d69a2"
+}
+,
+{
+  "username": "@eida_renata",
+  "wallet": "0xB419dA46Ddc5d818CF285a6B6cc96f0aA2245C17"
+}
+,
+{
+  "username": "@crypto71183",
+  "wallet": "0xdf6280fd063b68e3e81bc66019dcf38ff3f3744d"
+}
+,
+{
+  "username": "@giothu68",
+  "wallet": "0x7d081099956c7e67767d669a501c43cf5b138379"
+}
+,
+{
+  "username": "@Don443831O",
+  "wallet": "0x198a36e968597a3c67dffb58d2bddda03f9f3b53"
+}
+,
+{
+  "username": "@Bale1611",
+  "wallet": "0xec5b426a8e8c089ee3042e01a097b067e6c1345a"
+}
+,
+{
+  "username": "@imronlukman14",
+  "wallet": "0xc0bd0a78f87ec9c433f202f88afd1fab93b7c8ad"
+}
+,
+{
+  "username": "@gemarizkyu",
+  "wallet": "0xb57768600fc274f96da8b5ef9b1605fa3c1a0b94"
+}
+,
+{
+  "username": "@Baram121212",
+  "wallet": "0x99acde0088690cf87e78d991c808cd10c5423815"
+}
+,
+{
+  "username": "@Rew_ardProtocol",
+  "wallet": "0xCFAAf40E015a7698980c476f56E75FbefFB28cc7"
+}
+,
+{
+  "username": "@Qiuwin99",
+  "wallet": "0x6fd63e496a2255e2195623e36861590a99784c4c"
+}
+,
+{
+  "username": "@kadak_ra66623",
+  "wallet": "0x5c414e173f6fb4a33c8f6d50b3058e9345dac837"
+}
+,
+{
+  "username": "@Albatross073749",
+  "wallet": "0xA5Da2A3Ff8D9577Da152e25Ab47240Bd92Da3d92"
+}
+,
+{
+  "username": "@airman608",
+  "wallet": "0xa5df16b4126b9937ce01b86772925b7af0aac1b6"
+}
+,
+{
+  "username": "@hayukgasss",
+  "wallet": "0x29f757adffb06d752b03dcd7a3b9b851ef8e4cad"
+}
+,
+{
+  "username": "@TammaHudi",
+  "wallet": "0x2b7dB1e762869FBb3b58B5Ce415cE8f882aF484C"
+}
+,
+{
+  "username": "@kimgslomon132",
+  "wallet": "0xA50149CC15768494aa8fB18bc98a7b8287892951"
+}
+,
+{
+  "username": "@FreeAirdrop002",
+  "wallet": "0x898Ab07736f98e6BEb2F435445e74ed7f1d03f84"
+}
+,
+{
+  "username": "@supriyanto25068",
+  "wallet": "0x86e2a599dc4e5f12ad8792007bbdba79b238d0c5"
+}
+,
+{
+  "username": "@ayuwandan",
+  "wallet": "0xBd6239C56a7127CD583b10eD460c4E73BC91b866"
+}
+,
+{
+  "username": "@JothyJorian",
+  "wallet": "0xCcB35506B799c67980934e59D85C59b5bc6F3D39"
+}
+,
+{
+  "username": "@am15e",
+  "wallet": "0xeC54e19D2627A9F3DB154B449D2E92D82218D2A5"
+}
+,
+{
+  "username": "@Mikeyryz",
+  "wallet": "0xe198dd9adaf708f79c2ce489ef64cc53a2095760"
+}
+,
+{
+  "username": "@BDCoxie11",
+  "wallet": "0x89f982EeFff6e6Cd8E4F4DcA6d290a6D6208c291"
+}
+,
+{
+  "username": "@mistdae40im",
+  "wallet": "0xd166f7E18b2eea1aB7b03df5D38d9753cB22d1d3"
+}
+,
+{
+  "username": "@sisajolina",
+  "wallet": "0xcbC0337a3955d270CF3b49733A9C03D0aF06Dc29"
+}
+,
+{
+  "username": "@Wshou1d",
+  "wallet": "0xda72E55eb715839899Bc048CA69230529eC9Df17"
+}
 ]
