@@ -4,13 +4,10 @@
   "wallet": "0xB80B4Fb94bBB302294da984ecf8448479762b491"
 }
 ,
-
 {
   "username": "tomaka_",
   "wallet": "0x3494bf0E235Bf206b36233DED4956f9526Af6894"
 }
-,
-
 ,
 {
   "username": "ncurtil99914",
@@ -31,5 +28,9 @@
   "username": "marcosgon",
   "wallet": "0x3d2687A2e1E2E4882A6703dfA27344c4cF06bBc8"
 }
-
+,
+{
+  "username": "ghtest789",
+  "wallet": "0xABCDEF1234567890ABCDEF1234567890ABCDEF00"
+}
 ]
