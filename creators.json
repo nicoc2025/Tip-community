@@ -3,4 +3,9 @@
   "username": "N9335100",
   "wallet": "0x50CFBE19ec744B65Bd340Faf4441931D2e1dF701"
 }
+,
+{
+  "username": "new_test_user_123",
+  "wallet": "0xabcdef1234567890abcdef1234567890abcdef12"
+}
 ]
