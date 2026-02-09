@@ -18,5 +18,9 @@
   "username": "TFXBLACK292",
   "wallet": "0x373002a04e27e6f43300235de645a8af7eee5500"
 }
-
+,
+{
+  "username": "test_user_phase1",
+  "wallet": "0xtest123456789abcdef"
+}
 ]
