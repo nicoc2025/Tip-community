@@ -23,4 +23,9 @@
   "username": "test_user_phase1",
   "wallet": "0xtest123456789abcdef"
 }
+,
+{
+  "username": "pending_handle",
+  "wallet": "0xpending_test_wallet"
+}
 ]
