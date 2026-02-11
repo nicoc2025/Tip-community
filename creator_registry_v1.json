@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-02-11T02:49:26.619306+00:00",
-  "totalEntries": 3,
+  "generatedAt": "2026-02-11T02:54:26.600689+00:00",
+  "totalEntries": 2,
   "entries": [
     {
       "platform": "twitter",
@@ -16,13 +16,6 @@
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "2026-02-11T01:56:13.485000",
       "displayName": "@tipme2025"
-    },
-    {
-      "platform": "youtube",
-      "identifier": "UCRywuhfaWOVCzGPhzC-69ig",
-      "wallet": "0x6348103ab3bdd4d8be49561d24da7b3d8fb8e6b9",
-      "updatedAt": "2026-02-11T01:56:09.977000",
-      "displayName": "UCRywuhfaWOVCzGPhzC-69ig"
     }
   ]
 }
