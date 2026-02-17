@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-17T22:59:42.162246+00:00",
+  "conflictCount": 1,
+  "conflicts": [
+    {
+      "platform": "twitter",
+      "identifier": "emergent_test_user_2026",
+      "conflictingWallets": [
+        "0xtest_wallet_for_projection_verification_001"
+      ],
+      "reason": "INVALID_WALLET",
+      "details": "Wallet does not match 0x + 40 hex pattern: 0xtest_wallet_for_projection_verification_001"
+    }
+  ]
+}
