@@ -1,5 +1,10 @@
 [
 {
+  "username": "emergent_test_user_2026",
+  "wallet": "0xtest_wallet_for_projection_verification_001"
+}
+,
+{
   "username": "n9335100",
   "wallet": "0x1030935d5153d074b8197a15c021bb10bcbc4000"
 }
