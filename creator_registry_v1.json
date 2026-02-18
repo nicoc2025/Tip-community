@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-02-18T04:39:35.175264+00:00",
-  "totalEntries": 2,
+  "generatedAt": "2026-02-18T04:40:15.028684+00:00",
+  "totalEntries": 1,
   "entries": [
     {
       "platform": "twitter",
@@ -9,13 +9,6 @@
       "wallet": "0x7f271de159ca38551e56d070342c25bf9c61ce7a",
       "updatedAt": "2026-01-28T11:15:06.832000",
       "displayName": "@seraluzmusic"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "tipme2025",
-      "wallet": "0x1030935d5153d074b8197a15c021bb10bcbc4000",
-      "updatedAt": "2026-02-18T04:39:24.624000",
-      "displayName": "@tipme2025"
     }
   ]
 }
