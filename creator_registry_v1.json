@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-02-18T02:32:09.535685+00:00",
-  "totalEntries": 5,
+  "generatedAt": "2026-02-18T02:34:40.899945+00:00",
+  "totalEntries": 3,
   "entries": [
-    {
-      "platform": "twitter",
-      "identifier": "n9335100",
-      "wallet": "0xed7d5c6a2332ab44e0851696d9f170b54daccce6",
-      "updatedAt": "2026-02-18T02:32:04.724000",
-      "displayName": "@n9335100"
-    },
     {
       "platform": "twitter",
       "identifier": "ncurtil99913",
@@ -30,13 +23,6 @@
       "wallet": "0x373002a04e27e6f43300235de645a8af7eee5500",
       "updatedAt": "2026-01-29T19:45:44.008000",
       "displayName": "@tfxblack292"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "tipme2025",
-      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
-      "updatedAt": "2026-02-18T02:27:35.999000",
-      "displayName": "@tipme2025"
     }
   ]
 }
