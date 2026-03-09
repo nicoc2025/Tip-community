@@ -1,6 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-09T20:59:19.880566+00:00",
-  "totalEntries": 0,
-  "entries": []
+  "generatedAt": "2026-03-09T20:59:48.734769+00:00",
+  "totalEntries": 1,
+  "entries": [
+    {
+      "platform": "tiktok",
+      "identifier": "nicocrypto",
+      "wallet": "0x9763c16dd7deb17d33355d999cf2da219cec9eea",
+      "updatedAt": "",
+      "displayName": "nicocrypto"
+    }
+  ]
 }
