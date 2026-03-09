@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-02-21T13:35:33.113568+00:00",
+  "generatedAt": "2026-03-09T20:59:20.573390+00:00",
   "conflictCount": 1,
   "conflicts": [
     {
-      "platform": "twitter",
-      "identifier": "live_test_now",
+      "platform": "tiktok",
+      "identifier": "coolcreator",
       "conflictingWallets": [
-        "0xnewtest999888777666555444333222111000ab"
+        "0xc5d3c2683bc14ed29bcadb90c846b460"
       ],
       "reason": "INVALID_WALLET",
-      "details": "Wallet does not match 0x + 40 hex pattern: 0xnewtest999888777666555444333222111000ab"
+      "details": "Wallet does not match 0x + 40 hex pattern: 0xc5d3c2683bc14ed29bcadb90c846b460"
     }
   ]
 }
