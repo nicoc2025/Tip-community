@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-18T12:42:43.403159+00:00",
-  "totalEntries": 8,
+  "generatedAt": "2026-03-18T12:43:24.822079+00:00",
+  "totalEntries": 9,
   "entries": [
     {
       "platform": "tiktok",
@@ -23,6 +23,13 @@
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "",
       "displayName": "nicocrypto5"
+    },
+    {
+      "platform": "tiktok",
+      "identifier": "xh11rys",
+      "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
+      "updatedAt": "",
+      "displayName": "xh11rys"
     },
     {
       "platform": "twitter",
