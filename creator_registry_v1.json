@@ -1,28 +1,49 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-18T12:28:55.396925+00:00",
-  "totalEntries": 3,
+  "generatedAt": "2026-03-18T12:30:53.113821+00:00",
+  "totalEntries": 6,
   "entries": [
     {
       "platform": "tiktok",
-      "identifier": "nicocrypto",
-      "wallet": "0x9763c16dd7deb17d33355d999cf2da219cec9eea",
+      "identifier": "differencedageamourfou",
+      "wallet": "0xe28e8419730893af03c118abf0312abbff1ec888",
       "updatedAt": "",
-      "displayName": "nicocrypto"
+      "displayName": "differencedageamourfou"
     },
     {
       "platform": "tiktok",
       "identifier": "nicocrypto5",
-      "wallet": "0x9763c16dd7deb17d33355d999cf2da219cec9eea",
+      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "",
       "displayName": "nicocrypto5"
     },
     {
-      "platform": "tiktok",
-      "identifier": "tugas.ia.ia",
+      "platform": "twitter",
+      "identifier": "n9335100",
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
-      "updatedAt": "",
-      "displayName": "tugas.ia.ia"
+      "updatedAt": "2026-03-18T12:02:29.175000",
+      "displayName": "@n9335100"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "seraluzmusic",
+      "wallet": "0x7f271de159ca38551e56d070342c25bf9c61ce7a",
+      "updatedAt": "2026-01-28T11:15:06.832000",
+      "displayName": "@seraluzmusic"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "tipme2025",
+      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
+      "updatedAt": "2026-02-18T05:21:57.584000",
+      "displayName": "@tipme2025"
+    },
+    {
+      "platform": "youtube",
+      "identifier": "tipme2025",
+      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
+      "updatedAt": "2026-02-18T05:23:13.287000",
+      "displayName": "tipme2025"
     }
   ]
 }
