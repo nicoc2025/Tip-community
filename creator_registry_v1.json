@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-18T12:35:53.090392+00:00",
-  "totalEntries": 6,
+  "generatedAt": "2026-03-18T12:35:57.204290+00:00",
+  "totalEntries": 7,
   "entries": [
     {
       "platform": "tiktok",
@@ -9,6 +9,13 @@
       "wallet": "0xe28e8419730893af03c118abf0312abbff1ec888",
       "updatedAt": "",
       "displayName": "differencedageamourfou"
+    },
+    {
+      "platform": "tiktok",
+      "identifier": "maxime47593",
+      "wallet": "0xb0785051cb41d76787d9106640a7ab95d824e029",
+      "updatedAt": "",
+      "displayName": "maxime47593"
     },
     {
       "platform": "tiktok",
