@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-19T23:41:05.380214+00:00",
-  "totalEntries": 15,
+  "generatedAt": "2026-03-19T23:46:35.805250+00:00",
+  "totalEntries": 16,
   "entries": [
     {
       "platform": "tiktok",
@@ -86,6 +86,13 @@
       "wallet": "0xe42ba6297fb5ba6248380487f8ac0c5f052b6f28",
       "updatedAt": "2026-03-19T22:25:52.728000",
       "displayName": "@ncurtil99913"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "piousdeenn",
+      "wallet": "0x7551e02725f7fe23697963a8ac9e6a4977b10d69",
+      "updatedAt": "2026-03-19T23:46:28.161000",
+      "displayName": "@piousdeenn"
     },
     {
       "platform": "twitter",
