@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-19T20:43:56.854936+00:00",
-  "totalEntries": 12,
+  "generatedAt": "2026-03-19T20:46:17.055082+00:00",
+  "totalEntries": 13,
   "entries": [
     {
       "platform": "tiktok",
@@ -44,6 +44,13 @@
       "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
       "updatedAt": "",
       "displayName": "xh11rys"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "civilmonkey",
+      "wallet": "0x703020650cab1cf07b443a4f2d0bfa750d18e103",
+      "updatedAt": "2026-03-19T20:46:11.149000",
+      "displayName": "@civilmonkey"
     },
     {
       "platform": "twitter",
