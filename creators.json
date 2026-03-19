@@ -1,5 +1,10 @@
 [
 {
+  "username": "bbcworld",
+  "wallet": "0x03c28168d522a2b76fa143062282969c50d2cbb6"
+}
+,
+{
   "username": "civilmonkey",
   "wallet": "0x703020650cab1cf07b443a4f2d0bfa750d18e103"
 }
@@ -22,10 +27,5 @@
 {
   "username": "tipme2025",
   "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701"
-}
-,
-{
-  "username": "bbcworld",
-  "wallet": "0x03c28168d522a2b76fa143062282969c50d2cbb6"
 }
 ]
