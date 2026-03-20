@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-20T14:48:45.485367+00:00",
-  "totalEntries": 16,
+  "generatedAt": "2026-03-20T14:53:06.149655+00:00",
+  "totalEntries": 17,
   "entries": [
     {
       "platform": "tiktok",
@@ -58,6 +58,13 @@
       "wallet": "0x703020650cab1cf07b443a4f2d0bfa750d18e103",
       "updatedAt": "2026-03-19T20:46:11.149000",
       "displayName": "@civilmonkey"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "elonmusk",
+      "wallet": "0x3eb16c559afc2a191d30a0d1c95ab05366064371",
+      "updatedAt": "2026-03-20T14:53:00.455000",
+      "displayName": "@elonmusk"
     },
     {
       "platform": "twitter",
