@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-20T17:17:39.058742+00:00",
-  "totalEntries": 19,
+  "generatedAt": "2026-03-20T17:21:23.368996+00:00",
+  "totalEntries": 20,
   "entries": [
     {
       "platform": "tiktok",
@@ -128,6 +128,13 @@
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "2026-02-18T05:21:57.584000",
       "displayName": "@tipme2025"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "tuckercarlson",
+      "wallet": "0x8181b3d5646ea0d52ee33fd58417964a92614f51",
+      "updatedAt": "2026-03-20T17:21:15.608000",
+      "displayName": "@tuckercarlson"
     },
     {
       "platform": "youtube",
