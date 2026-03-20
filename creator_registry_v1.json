@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-20T21:00:55.363377+00:00",
-  "totalEntries": 22,
+  "generatedAt": "2026-03-20T21:12:05.458170+00:00",
+  "totalEntries": 23,
   "entries": [
     {
       "platform": "tiktok",
@@ -79,6 +79,13 @@
       "wallet": "0xb0785051cb41d76787d9106640a7ab95d824e029",
       "updatedAt": "2026-03-18T18:52:50.145000",
       "displayName": "@kadercalls"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "lboulle",
+      "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
+      "updatedAt": "2026-03-20T21:11:58.246000",
+      "displayName": "@lboulle"
     },
     {
       "platform": "twitter",
