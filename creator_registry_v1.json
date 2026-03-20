@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-20T14:53:45.307663+00:00",
-  "totalEntries": 17,
+  "generatedAt": "2026-03-20T15:07:41.815665+00:00",
+  "totalEntries": 18,
   "entries": [
     {
       "platform": "tiktok",
@@ -51,6 +51,13 @@
       "wallet": "0x03c28168d522a2b76fa143062282969c50d2cbb6",
       "updatedAt": "2026-03-19T23:11:17.223000",
       "displayName": "@bbcworld"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "billgates",
+      "wallet": "0x20dd09c4a52e67d3f9469ecc0fa224f1a965bd09",
+      "updatedAt": "2026-03-20T15:07:32.568000",
+      "displayName": "@billgates"
     },
     {
       "platform": "twitter",
