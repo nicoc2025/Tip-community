@@ -10,6 +10,11 @@
 }
 ,
 {
+  "username": "elonmusk",
+  "wallet": "0x3eb16c559afc2a191d30a0d1c95ab05366064371"
+}
+,
+{
   "username": "mishtal",
   "wallet": "0xb0785051cb41d76787d9106640a7ab95d824e029"
 }
@@ -32,10 +37,5 @@
 {
   "username": "tipme2025",
   "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701"
-}
-,
-{
-  "username": "elonmusk",
-  "wallet": "0x3eb16c559afc2a191d30a0d1c95ab05366064371"
 }
 ]
