@@ -1,35 +1,28 @@
-
-  {
-[ 
+{
+  "version": 1,
+  "generatedAt": "2026-03-21T17:58:57.376926+00:00",
+  "totalEntries": 3,
+  "entries": [
     {
-      "platform": "tiktok",
-      "identifier": "nicocrypto5",
-      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
+      "platform": "twitter",
+      "identifier": "jacksonhinkle",
+      "wallet": "0x0c2270f92b7f6f03e85f1d4fefb9a8d021b5b7be",
+      "updatedAt": "2026-03-21T00:13:23.401000",
+      "displayName": "@jacksonhinkle"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "sahouraxo",
+      "wallet": "0xa733bb79cad23d209ce71cba584a701636e288d5",
+      "updatedAt": "2026-03-20T18:57:14.596000",
+      "displayName": "@sahouraxo"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "testapproved",
+      "wallet": "0xe42ba6297fb5ba6248380487f8ac0c5f052b6f28",
       "updatedAt": "",
-      "displayName": "nicocrypto5"
-    },
-  
-  
-    {
-      "platform": "twitter",
-      "identifier": "seraluzmusic",
-      "wallet": "0x7f271de159ca38551e56d070342c25bf9c61ce7a",
-      "updatedAt": "2026-01-28T11:15:06.832000",
-      "displayName": "@seraluzmusic"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "tipme2025",
-      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
-      "updatedAt": "2026-02-18T05:21:57.584000",
-      "displayName": "@tipme2025"
-    },
-    {
-      "platform": "youtube",
-      "identifier": "tipme2025",
-      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
-      "updatedAt": "2026-02-18T05:23:13.287000",
-      "displayName": "tipme2025"
+      "displayName": "@testapproved"
     }
   ]
 }
