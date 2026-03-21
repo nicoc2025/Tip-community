@@ -15,6 +15,11 @@
 }
 ,
 {
+  "username": "coleenchase",
+  "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b"
+}
+,
+{
   "username": "electo_scope",
   "wallet": "0x16fba7de93c4a997da174b8506e0c6db05d7a6ac"
 }
@@ -77,10 +82,5 @@
 {
   "username": "tuckercarlson",
   "wallet": "0x8181b3d5646ea0d52ee33fd58417964a92614f51"
-}
-,
-{
-  "username": "coleenchase",
-  "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b"
 }
 ]
