@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-21T10:36:46.359788+00:00",
-  "totalEntries": 27,
+  "generatedAt": "2026-03-21T10:39:26.223403+00:00",
+  "totalEntries": 28,
   "entries": [
     {
       "platform": "tiktok",
@@ -170,6 +170,13 @@
       "wallet": "0x1111111111111111111111111111111111111111",
       "updatedAt": "2026-03-21T10:30:50.988000",
       "displayName": "@test_creator_abc123"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "test_creator_new_001",
+      "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b",
+      "updatedAt": "2026-03-21T10:36:47.299000",
+      "displayName": "@test_creator_new_001"
     },
     {
       "platform": "twitter",
