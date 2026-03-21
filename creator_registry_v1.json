@@ -1,36 +1,5 @@
-{
-  "version": 1,
-  "generatedAt": "2026-03-21T15:59:35.936216+00:00",
-  "totalEntries": 28,
-  "entries": [
-    {
-      "platform": "tiktok",
-      "identifier": "cestjustejustin",
-      "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
-      "updatedAt": "",
-      "displayName": "cestjustejustin"
-    },
-    {
-      "platform": "tiktok",
-      "identifier": "differencedageamourfou",
-      "wallet": "0xe28e8419730893af03c118abf0312abbff1ec888",
-      "updatedAt": "",
-      "displayName": "differencedageamourfou"
-    },
-    {
-      "platform": "tiktok",
-      "identifier": "lass_vitton",
-      "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
-      "updatedAt": "",
-      "displayName": "lass_vitton"
-    },
-    {
-      "platform": "tiktok",
-      "identifier": "maxime47593",
-      "wallet": "0xb0785051cb41d76787d9106640a7ab95d824e029",
-      "updatedAt": "",
-      "displayName": "maxime47593"
-    },
+
+   
     {
       "platform": "tiktok",
       "identifier": "nicocrypto5",
@@ -38,125 +7,8 @@
       "updatedAt": "",
       "displayName": "nicocrypto5"
     },
-    {
-      "platform": "tiktok",
-      "identifier": "xh11rys",
-      "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
-      "updatedAt": "",
-      "displayName": "xh11rys"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "bbcworld",
-      "wallet": "0x03c28168d522a2b76fa143062282969c50d2cbb6",
-      "updatedAt": "2026-03-19T23:11:17.223000",
-      "displayName": "@bbcworld"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "billgates",
-      "wallet": "0x20dd09c4a52e67d3f9469ecc0fa224f1a965bd09",
-      "updatedAt": "2026-03-20T15:07:32.568000",
-      "displayName": "@billgates"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "civilmonkey",
-      "wallet": "0x703020650cab1cf07b443a4f2d0bfa750d18e103",
-      "updatedAt": "2026-03-19T20:46:11.149000",
-      "displayName": "@civilmonkey"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "coleenchase",
-      "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b",
-      "updatedAt": "2026-03-21T10:35:50.218000",
-      "displayName": "@coleenchase"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "electo_scope",
-      "wallet": "0x16fba7de93c4a997da174b8506e0c6db05d7a6ac",
-      "updatedAt": "2026-03-21T00:57:14.631000",
-      "displayName": "@electo_scope"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "elonmusk",
-      "wallet": "0x3eb16c559afc2a191d30a0d1c95ab05366064371",
-      "updatedAt": "2026-03-20T14:53:00.455000",
-      "displayName": "@elonmusk"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "jacksonhinklle",
-      "wallet": "0x0c2270c0c6d8cd37b6c83034138c7a9ea8572d1a",
-      "updatedAt": "2026-03-20T22:07:54.815000",
-      "displayName": "@jacksonhinklle"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "kadercalls",
-      "wallet": "0xb0785051cb41d76787d9106640a7ab95d824e029",
-      "updatedAt": "2026-03-18T18:52:50.145000",
-      "displayName": "@kadercalls"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "lboulle",
-      "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
-      "updatedAt": "2026-03-20T21:11:58.246000",
-      "displayName": "@lboulle"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "mishtal",
-      "wallet": "0xb0785051cb41d76787d9106640a7ab95d824e029",
-      "updatedAt": "2026-03-18T12:39:48.683000",
-      "displayName": "@mishtal"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "n9335100",
-      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
-      "updatedAt": "2026-03-18T12:02:29.175000",
-      "displayName": "@n9335100"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "nasa",
-      "wallet": "0x20dd09c4a52e67d3f9469ecc0fa224f1a965bd09",
-      "updatedAt": "2026-03-20T15:38:03.592000",
-      "displayName": "@nasa"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "ncurtil99913",
-      "wallet": "0xe42ba6297fb5ba6248380487f8ac0c5f052b6f28",
-      "updatedAt": "2026-03-19T22:25:52.728000",
-      "displayName": "@ncurtil99913"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "piousdeenn",
-      "wallet": "0x7551e02725f7fe23697963a8ac9e6a4977b10d69",
-      "updatedAt": "2026-03-19T23:46:28.161000",
-      "displayName": "@piousdeenn"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "realcandaceo",
-      "wallet": "0xddb0b6b767088397a013585a0463060dbc65cc81",
-      "updatedAt": "2026-03-20T20:23:14.342000",
-      "displayName": "@realcandaceo"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "sahouraxo",
-      "wallet": "0xa733bb79cad23d209ce71cba584a701636e288d5",
-      "updatedAt": "2026-03-20T18:17:19.308000",
-      "displayName": "@sahouraxo"
-    },
+  
+  
     {
       "platform": "twitter",
       "identifier": "seraluzmusic",
@@ -166,31 +18,10 @@
     },
     {
       "platform": "twitter",
-      "identifier": "test_creator_abc123",
-      "wallet": "0x1111111111111111111111111111111111111111",
-      "updatedAt": "2026-03-21T10:30:50.988000",
-      "displayName": "@test_creator_abc123"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "test_creator_new_001",
-      "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b",
-      "updatedAt": "2026-03-21T10:36:47.299000",
-      "displayName": "@test_creator_new_001"
-    },
-    {
-      "platform": "twitter",
       "identifier": "tipme2025",
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "2026-02-18T05:21:57.584000",
       "displayName": "@tipme2025"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "tuckercarlson",
-      "wallet": "0x8181b3d5646ea0d52ee33fd58417964a92614f51",
-      "updatedAt": "2026-03-20T17:21:15.608000",
-      "displayName": "@tuckercarlson"
     },
     {
       "platform": "youtube",
