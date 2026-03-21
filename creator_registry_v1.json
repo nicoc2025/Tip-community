@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-21T10:34:26.854732+00:00",
-  "totalEntries": 26,
+  "generatedAt": "2026-03-21T10:36:05.217048+00:00",
+  "totalEntries": 27,
   "entries": [
     {
       "platform": "tiktok",
@@ -65,6 +65,13 @@
       "wallet": "0x703020650cab1cf07b443a4f2d0bfa750d18e103",
       "updatedAt": "2026-03-19T20:46:11.149000",
       "displayName": "@civilmonkey"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "coleenchase",
+      "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b",
+      "updatedAt": "2026-03-21T10:35:50.218000",
+      "displayName": "@coleenchase"
     },
     {
       "platform": "twitter",
