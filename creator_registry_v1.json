@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-21T10:29:26.263667+00:00",
-  "totalEntries": 25,
+  "generatedAt": "2026-03-21T10:31:46.202692+00:00",
+  "totalEntries": 26,
   "entries": [
     {
       "platform": "tiktok",
@@ -156,6 +156,13 @@
       "wallet": "0x7f271de159ca38551e56d070342c25bf9c61ce7a",
       "updatedAt": "2026-01-28T11:15:06.832000",
       "displayName": "@seraluzmusic"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "test_creator_abc123",
+      "wallet": "0x1111111111111111111111111111111111111111",
+      "updatedAt": "2026-03-21T10:30:50.988000",
+      "displayName": "@test_creator_abc123"
     },
     {
       "platform": "twitter",
