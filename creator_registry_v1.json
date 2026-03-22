@@ -3,41 +3,8 @@
   "generatedAt": "2026-03-22T20:16:05.214620+00:00",
   "totalEntries": 13,
   "entries": [
-    {
-      "platform": "twitter",
-      "identifier": "blanktablets",
-      "wallet": "0x91545500a23a6a97d803abfd7cc8e724b62c6130",
-      "updatedAt": "2026-03-22T19:58:18.254000",
-      "displayName": "@blanktablets"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "gabbar0099",
-      "wallet": "0xa733bb79cad23d209ce71cba584a701636e288d5",
-      "updatedAt": "2026-03-22T19:32:49.450000",
-      "displayName": "@gabbar0099"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "herdadefozdarep",
-      "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
-      "updatedAt": "2026-03-22T19:32:36.229000",
-      "displayName": "@herdadefozdarep"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "julienlacoentre",
-      "wallet": "0x8181b3d5646ea0d52ee33fd58417964a92614f51",
-      "updatedAt": "2026-03-22T11:54:37.128000",
-      "displayName": "@julienlacoentre"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "lucasgagex",
-      "wallet": "0x544debb7b4771c3331b453fe71968b592d8e6e06",
-      "updatedAt": "2026-03-22T19:30:13.656000",
-      "displayName": "@lucasgagex"
-    },
+   
+   
     {
       "platform": "twitter",
       "identifier": "n9335100",
@@ -45,54 +12,14 @@
       "updatedAt": "2026-03-21T17:23:48.278000",
       "displayName": "@n9335100"
     },
-    {
-      "platform": "twitter",
-      "identifier": "ncurtil99913",
-      "wallet": "0xb9b50bf94e1e225501b58e16fdb76bc2fb279135",
-      "updatedAt": "2026-03-21T18:19:22.800000",
-      "displayName": "@ncurtil99913"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "sunburn3025",
-      "wallet": "0xa811a2e7c5bc29c85f50b835fbc020d9d8b0f63e",
-      "updatedAt": "2026-03-22T12:54:00.889000",
-      "displayName": "@sunburn3025"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "testapproved",
-      "wallet": "0xe42ba6297fb5ba6248380487f8ac0c5f052b6f28",
-      "updatedAt": "",
-      "displayName": "@testapproved"
-    },
+    
     {
       "platform": "twitter",
       "identifier": "tipme2025",
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "2026-03-21T16:32:22.408000",
       "displayName": "@tipme2025"
-    },
-    {
-      "platform": "twitter",
-      "identifier": "tomaka_",
-      "wallet": "0xddb0b6b767088397a013585a0463060dbc65cc81",
-      "updatedAt": "2026-03-22T13:45:50.235000",
-      "displayName": "@tomaka_"
-    },
-    {
-      "platform": "youtube",
-      "identifier": "kevinbeutler",
-      "wallet": "0x75e2f0d35e8b96542fce90550d4834fc6a1aff6b",
-      "updatedAt": "2026-03-22T11:50:17.042000",
-      "displayName": "kevinbeutler"
-    },
-    {
-      "platform": "youtube",
-      "identifier": "tcnetwork",
-      "wallet": "0x6948acc4c6b63157e9f05bfe9281dcecb0ae3df3",
-      "updatedAt": "2026-03-22T11:47:58",
-      "displayName": "tcnetwork"
     }
+    
   ]
 }
