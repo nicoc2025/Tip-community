@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-22T13:44:44.415275+00:00",
-  "totalEntries": 8,
+  "generatedAt": "2026-03-22T13:45:54.685477+00:00",
+  "totalEntries": 9,
   "entries": [
     {
       "platform": "twitter",
@@ -44,6 +44,13 @@
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "2026-03-21T16:32:22.408000",
       "displayName": "@tipme2025"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "tomaka_",
+      "wallet": "0xddb0b6b767088397a013585a0463060dbc65cc81",
+      "updatedAt": "2026-03-22T13:45:50.235000",
+      "displayName": "@tomaka_"
     },
     {
       "platform": "youtube",
