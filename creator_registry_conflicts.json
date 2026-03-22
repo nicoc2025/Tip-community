@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-20T12:40:22.259525+00:00",
+  "generatedAt": "2026-03-22T22:36:17.120951+00:00",
   "conflictCount": 1,
   "conflicts": [
     {
-      "platform": "tiktok",
-      "identifier": "coolcreator",
+      "platform": "youtube",
+      "identifier": "UCtest123",
       "conflictingWallets": [
-        "0xc5d3c2683bc14ed29bcadb90c846b460"
+        "0x50cfbe19ec744b65bd340faf4441931d2e1df701"
       ],
-      "reason": "INVALID_WALLET",
-      "details": "Wallet does not match 0x + 40 hex pattern: 0xc5d3c2683bc14ed29bcadb90c846b460"
+      "reason": "INVALID_IDENTIFIER",
+      "details": "YouTube channelId does not match UC pattern: UCtest123"
     }
   ]
 }
