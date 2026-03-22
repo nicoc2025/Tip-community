@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-22T19:31:57.198939+00:00",
-  "totalEntries": 10,
+  "generatedAt": "2026-03-22T19:32:40.841247+00:00",
+  "totalEntries": 11,
   "entries": [
+    {
+      "platform": "twitter",
+      "identifier": "herdadefozdarep",
+      "wallet": "0xf07097111b82caaf6689b6dbe84103b77723d8a6",
+      "updatedAt": "2026-03-22T19:32:36.229000",
+      "displayName": "@herdadefozdarep"
+    },
     {
       "platform": "twitter",
       "identifier": "julienlacoentre",
