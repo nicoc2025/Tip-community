@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-22T12:49:44.358312+00:00",
-  "totalEntries": 7,
+  "generatedAt": "2026-03-22T12:54:03.986278+00:00",
+  "totalEntries": 8,
   "entries": [
     {
       "platform": "twitter",
@@ -23,6 +23,13 @@
       "wallet": "0xb9b50bf94e1e225501b58e16fdb76bc2fb279135",
       "updatedAt": "2026-03-21T18:19:22.800000",
       "displayName": "@ncurtil99913"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "sunburn3025",
+      "wallet": "0xa811a2e7c5bc29c85f50b835fbc020d9d8b0f63e",
+      "updatedAt": "2026-03-22T12:54:00.889000",
+      "displayName": "@sunburn3025"
     },
     {
       "platform": "twitter",
