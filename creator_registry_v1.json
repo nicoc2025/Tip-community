@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-22T10:10:40.809943+00:00",
+  "generatedAt": "2026-03-22T11:50:18.317130+00:00",
   "totalEntries": 6,
   "entries": [
-    {
-      "platform": "twitter",
-      "identifier": "jacksonhinkle",
-      "wallet": "0x0c2270f92b7f6f03e85f1d4fefb9a8d021b5b7be",
-      "updatedAt": "2026-03-21T00:13:23.401000",
-      "displayName": "@jacksonhinkle"
-    },
     {
       "platform": "twitter",
       "identifier": "n9335100",
@@ -26,13 +19,6 @@
     },
     {
       "platform": "twitter",
-      "identifier": "sahouraxo",
-      "wallet": "0xa733bb79cad23d209ce71cba584a701636e288d5",
-      "updatedAt": "2026-03-20T18:57:14.596000",
-      "displayName": "@sahouraxo"
-    },
-    {
-      "platform": "twitter",
       "identifier": "testapproved",
       "wallet": "0xe42ba6297fb5ba6248380487f8ac0c5f052b6f28",
       "updatedAt": "",
@@ -44,6 +30,20 @@
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "2026-03-21T16:32:22.408000",
       "displayName": "@tipme2025"
+    },
+    {
+      "platform": "youtube",
+      "identifier": "kevinbeutler",
+      "wallet": "0x75e2f0d35e8b96542fce90550d4834fc6a1aff6b",
+      "updatedAt": "2026-03-22T11:50:17.042000",
+      "displayName": "kevinbeutler"
+    },
+    {
+      "platform": "youtube",
+      "identifier": "tcnetwork",
+      "wallet": "0x6948acc4c6b63157e9f05bfe9281dcecb0ae3df3",
+      "updatedAt": "2026-03-22T11:47:58",
+      "displayName": "tcnetwork"
     }
   ]
 }
