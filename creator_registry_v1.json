@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-22T19:30:11.674614+00:00",
-  "totalEntries": 9,
+  "generatedAt": "2026-03-22T19:31:57.198939+00:00",
+  "totalEntries": 10,
   "entries": [
     {
       "platform": "twitter",
@@ -9,6 +9,13 @@
       "wallet": "0x8181b3d5646ea0d52ee33fd58417964a92614f51",
       "updatedAt": "2026-03-22T11:54:37.128000",
       "displayName": "@julienlacoentre"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "lucasgagex",
+      "wallet": "0x544debb7b4771c3331b453fe71968b592d8e6e06",
+      "updatedAt": "2026-03-22T19:30:13.656000",
+      "displayName": "@lucasgagex"
     },
     {
       "platform": "twitter",
