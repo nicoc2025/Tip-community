@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-22T19:56:05.143484+00:00",
-  "totalEntries": 12,
+  "generatedAt": "2026-03-22T19:58:24.290029+00:00",
+  "totalEntries": 13,
   "entries": [
+    {
+      "platform": "twitter",
+      "identifier": "blanktablets",
+      "wallet": "0x91545500a23a6a97d803abfd7cc8e724b62c6130",
+      "updatedAt": "2026-03-22T19:58:18.254000",
+      "displayName": "@blanktablets"
+    },
     {
       "platform": "twitter",
       "identifier": "gabbar0099",
