@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-22T11:50:59.561510+00:00",
-  "totalEntries": 6,
+  "generatedAt": "2026-03-22T11:54:40.304243+00:00",
+  "totalEntries": 7,
   "entries": [
+    {
+      "platform": "twitter",
+      "identifier": "julienlacoentre",
+      "wallet": "0x8181b3d5646ea0d52ee33fd58417964a92614f51",
+      "updatedAt": "2026-03-22T11:54:37.128000",
+      "displayName": "@julienlacoentre"
+    },
     {
       "platform": "twitter",
       "identifier": "n9335100",
