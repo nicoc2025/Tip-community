@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-24T20:43:11.970406+00:00",
+  "generatedAt": "2026-03-25T09:31:19.232643+00:00",
   "conflictCount": 1,
   "conflicts": [
     {
-      "platform": "youtube",
-      "identifier": "UCtest123",
+      "platform": "twitter",
+      "identifier": "live_test_now",
       "conflictingWallets": [
-        "0x50cfbe19ec744b65bd340faf4441931d2e1df701"
+        "0xnewtest999888777666555444333222111000ab"
       ],
-      "reason": "INVALID_IDENTIFIER",
-      "details": "YouTube channelId does not match UC pattern: UCtest123"
+      "reason": "INVALID_WALLET",
+      "details": "Wallet does not match 0x + 40 hex pattern: 0xnewtest999888777666555444333222111000ab"
     }
   ]
 }
