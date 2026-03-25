@@ -1,14 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-24T20:43:11.118820+00:00",
-  "totalEntries": 1,
+  "generatedAt": "2026-03-25T09:31:18.576733+00:00",
+  "totalEntries": 2,
   "entries": [
     {
       "platform": "twitter",
-      "identifier": "testapproved",
-      "wallet": "0xe42ba6297fb5ba6248380487f8ac0c5f052b6f28",
-      "updatedAt": "",
-      "displayName": "@testapproved"
+      "identifier": "n9335100",
+      "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
+      "updatedAt": "2026-01-23T13:14:44.794000",
+      "displayName": "@n9335100"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "ncurtil99913",
+      "wallet": "0x1030935d5153d074b8197a15c021bb10bcbc4000",
+      "updatedAt": "2026-01-23T13:09:02.504000",
+      "displayName": "@ncurtil99913"
     }
   ]
 }
