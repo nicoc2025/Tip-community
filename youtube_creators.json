@@ -1,29 +1,5 @@
 [
 {
-  "channelHandle": "deeperheavenmusic",
-  "channelId": "UC2ogIyg9PuH61FgxW3rr8OQ",
-  "wallet": "0xc089859fe02050e914f6ae28e3f52ccac2676844"
-}
-,
-{
-  "channelHandle": "espnfc",
-  "channelId": "UC6c1z7bA__85CIWZ_jpCK-Q",
-  "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b"
-}
-,
-{
-  "channelHandle": "gavetatv",
-  "channelId": "UCmXLxsrvpaMo2sX1nK_bjSw",
-  "wallet": "0x544debb7b4771c3331b453fe71968b592d8e6e06"
-}
-,
-{
-  "channelHandle": "kadercalls",
-  "channelId": "UCu3j8Wf8OrsgrneWe2rlq5A",
-  "wallet": "0xa811a2e7c5bc29c85f50b835fbc020d9d8b0f63e"
-}
-,
-{
   "channelHandle": "tipme2025",
   "channelId": "UCRywuhfaWOVCzGPhzC-69ig",
   "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701"
