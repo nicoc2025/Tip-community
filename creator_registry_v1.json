@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-30T08:58:13.441821+00:00",
-  "totalEntries": 5,
+  "generatedAt": "2026-03-30T08:58:26.241939+00:00",
+  "totalEntries": 6,
   "entries": [
     {
       "platform": "tiktok",
@@ -9,6 +9,13 @@
       "wallet": "0xddb0b6b767088397a013585a0463060dbc65cc81",
       "updatedAt": "",
       "displayName": "3kittycatss"
+    },
+    {
+      "platform": "tiktok",
+      "identifier": "davi_piagentini",
+      "wallet": "0x91545500a23a6a97d803abfd7cc8e724b62c6130",
+      "updatedAt": "2026-03-30T08:58:25.214000",
+      "displayName": "davi_piagentini"
     },
     {
       "platform": "tiktok",
