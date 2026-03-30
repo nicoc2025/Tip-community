@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-30T09:13:13.629816+00:00",
-  "totalEntries": 7,
+  "generatedAt": "2026-03-30T09:14:02.668270+00:00",
+  "totalEntries": 8,
   "entries": [
     {
       "platform": "tiktok",
@@ -23,6 +23,13 @@
       "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701",
       "updatedAt": "",
       "displayName": "nicocrypto5"
+    },
+    {
+      "platform": "twitter",
+      "identifier": "kadercalls",
+      "wallet": "0x75e2f0d35e8b96542fce90550d4834fc6a1aff6b",
+      "updatedAt": "2026-03-30T09:13:55.177000",
+      "displayName": "@kadercalls"
     },
     {
       "platform": "twitter",
