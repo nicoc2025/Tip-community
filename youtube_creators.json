@@ -6,6 +6,12 @@
 }
 ,
 {
+  "channelHandle": "kadercalls",
+  "channelId": "UCu3j8Wf8OrsgrneWe2rlq5A",
+  "wallet": "0xa811a2e7c5bc29c85f50b835fbc020d9d8b0f63e"
+}
+,
+{
   "channelHandle": "tipme2025",
   "channelId": "UCRywuhfaWOVCzGPhzC-69ig",
   "wallet": "0x50cfbe19ec744b65bd340faf4441931d2e1df701"
