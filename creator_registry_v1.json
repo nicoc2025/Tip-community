@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-30T13:08:13.755596+00:00",
-  "totalEntries": 9,
+  "generatedAt": "2026-03-30T13:11:01.563713+00:00",
+  "totalEntries": 10,
   "entries": [
     {
       "platform": "tiktok",
@@ -51,6 +51,13 @@
       "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b",
       "updatedAt": "2026-03-30T12:52:07.120000",
       "displayName": "espnfc"
+    },
+    {
+      "platform": "youtube",
+      "identifier": "gavetatv",
+      "wallet": "0x544debb7b4771c3331b453fe71968b592d8e6e06",
+      "updatedAt": "2026-03-30T13:10:59.813000",
+      "displayName": "gavetatv"
     },
     {
       "platform": "youtube",
