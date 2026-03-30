@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-30T12:48:13.826491+00:00",
-  "totalEntries": 8,
+  "generatedAt": "2026-03-30T12:52:08.765183+00:00",
+  "totalEntries": 9,
   "entries": [
     {
       "platform": "tiktok",
@@ -44,6 +44,13 @@
       "wallet": "0xc089859fe02050e914f6ae28e3f52ccac2676844",
       "updatedAt": "2026-03-29T16:11:12.233000",
       "displayName": "deeperheavenmusic"
+    },
+    {
+      "platform": "youtube",
+      "identifier": "espnfc",
+      "wallet": "0xd2a282717164b6e565fefe63295b977a6a34b52b",
+      "updatedAt": "2026-03-30T12:52:07.120000",
+      "displayName": "espnfc"
     },
     {
       "platform": "youtube",
